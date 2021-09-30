@@ -1,5 +1,5 @@
 package Default;
-
+//este es un comentario
 public class Cliente {
 	public Cliente(String nombre, String n_cuenta, double saldo ){
 		this.nombre = nombre;
